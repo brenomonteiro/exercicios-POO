@@ -1,0 +1,7 @@
+Crie um objeto simples que armazene um texto que possa ser
+recuperado com um método getTexto().
+Crie decoradores que retornem o texto:
+a) em caixa-alta,
+b) invertido e
+c) cercado por tags <b> e </b>.
+Teste os decoradores individualmente e em cascata.
